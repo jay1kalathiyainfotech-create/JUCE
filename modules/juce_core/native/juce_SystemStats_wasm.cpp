@@ -32,6 +32,9 @@
   ==============================================================================
 */
 
+#include <emscripten.h>
+#include <iostream>
+
 namespace juce
 {
 
